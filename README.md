@@ -1,4 +1,4 @@
-# EmpVue2-Wiki
+# EmpVue2
 Emporia Vue 2 Wiki
 
 This is a place for me to keep notes as I work to understand and reverse-engineer the Emporia Engery Vue (gen 2) energy monitor.
